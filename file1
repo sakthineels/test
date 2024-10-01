@@ -2,3 +2,8 @@ cmd in git:
 git commit -m "msg"
 git add "filename"
 git push origin main
+
+cmd in git:
+git commit -m "msg"
+git add "filename"
+git push origin main
